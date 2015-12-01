@@ -1,0 +1,4 @@
+C:\Users\einst\Desktop\Danqing\RevitLab\2.3 CsAddpanel\bin\Debug\2.3 CsAddpanel.dll
+C:\Users\einst\Desktop\Danqing\RevitLab\2.3 CsAddpanel\bin\Debug\2.3 CsAddpanel.pdb
+C:\Users\einst\Desktop\Danqing\RevitLab\2.3 CsAddpanel\obj\Debug\2.3 CsAddpanel.dll
+C:\Users\einst\Desktop\Danqing\RevitLab\2.3 CsAddpanel\obj\Debug\2.3 CsAddpanel.pdb
