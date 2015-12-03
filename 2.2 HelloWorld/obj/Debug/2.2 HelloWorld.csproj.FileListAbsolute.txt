@@ -3,3 +3,8 @@ C:\Users\einst\Desktop\Danqing\RevitLab\2.2 HelloWorld\bin\Debug\2.2 HelloWorld.
 C:\Users\einst\Desktop\Danqing\RevitLab\2.2 HelloWorld\obj\Debug\2.2 HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\einst\Desktop\Danqing\RevitLab\2.2 HelloWorld\obj\Debug\2.2 HelloWorld.dll
 C:\Users\einst\Desktop\Danqing\RevitLab\2.2 HelloWorld\obj\Debug\2.2 HelloWorld.pdb
+C:\Users\einst\Desktop\Danqing\GitRepo\RevitLab\2.2 HelloWorld\bin\Debug\2.2 HelloWorld.dll
+C:\Users\einst\Desktop\Danqing\GitRepo\RevitLab\2.2 HelloWorld\bin\Debug\2.2 HelloWorld.pdb
+C:\Users\einst\Desktop\Danqing\GitRepo\RevitLab\2.2 HelloWorld\obj\Debug\2.2 HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\einst\Desktop\Danqing\GitRepo\RevitLab\2.2 HelloWorld\obj\Debug\2.2 HelloWorld.dll
+C:\Users\einst\Desktop\Danqing\GitRepo\RevitLab\2.2 HelloWorld\obj\Debug\2.2 HelloWorld.pdb

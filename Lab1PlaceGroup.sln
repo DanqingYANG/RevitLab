@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2 HelloWorld", "2.2 Hello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3 AddPanel", "2.3 CsAddpanel\2.3 AddPanel.csproj", "{A5285438-C4DC-40A2-A968-6EAC4A402992}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24RetrieveSelectedElements", "24RetrieveSelectedElements\24RetrieveSelectedElements.csproj", "{C8435D93-66B0-4E15-B01A-EB5118C43A63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A5285438-C4DC-40A2-A968-6EAC4A402992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5285438-C4DC-40A2-A968-6EAC4A402992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5285438-C4DC-40A2-A968-6EAC4A402992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

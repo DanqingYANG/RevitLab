@@ -19,9 +19,10 @@ namespace _2._3_AddPanel
 
         public Autodesk.Revit.UI.Result OnStartup(Autodesk.Revit.UI.UIControlledApplication application)
         {
+
             RibbonPanel ribbonPanel = application.CreateRibbonPanel("NewRibbonPanel");
-            //PushButtonData pbd = new PushButtonData("name", "text", @"C:\Users\einst\Desktop\Danqing\RevitLab\2.2 HelloWorld\bin\Debug\2.2 HelloWorld.dll", "HelloWorld");
-            PushButton pushBotton = ribbonPanel.AddItem(new PushButtonData("HelloWorld", "HelloWorld", @"C:\Users\einst\Desktop\Danqing\RevitLab\2.2 HelloWorld\bin\Debug\2.2 HelloWorld.dll", "_2._2_HelloWorld.HelloWorld")) as PushButton;
+            //PushButtonData pbd = new PushButtonData("name", "text", @"C:\Users\einst\Desktop\Danqing\GitRepo\RevitLab\2.2 HelloWorld\bin\Debug\2.2 HelloWorld.dll", "HelloWorld");
+            PushButton pushBotton = ribbonPanel.AddItem(new PushButtonData("HelloWorld", "HelloWorld", @"C:\Users\einst\AppData\Roaming\Autodesk\Revit\Addins\2016\HelloWorld.dll", "_2._2_HelloWorld.HelloWorld")) as PushButton;
             
             Uri urlImage = new Uri(@"C:\Users\einst\Desktop\Danqing\UrlImage\01.jpg");
             BitmapImage largeImage = new BitmapImage(urlImage);
