@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3 AddPanel", "2.3 CsAddpa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24RetrieveSelectedElements", "24RetrieveSelectedElements\24RetrieveSelectedElements.csproj", "{C8435D93-66B0-4E15-B01A-EB5118C43A63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38ApplictionDialogShowing", "38ApplictionDialogShowing\38ApplictionDialogShowing.csproj", "{8781DF3A-125C-4274-8E55-B8FB094BD25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCSharpTutorialGLS1", "ExerciseCSharpTutorialGLS1\ExerciseCSharpTutorialGLS1.csproj", "{AACE21CC-55E1-4C39-BB38-4649DEC9D84D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8435D93-66B0-4E15-B01A-EB5118C43A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8781DF3A-125C-4274-8E55-B8FB094BD25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8781DF3A-125C-4274-8E55-B8FB094BD25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8781DF3A-125C-4274-8E55-B8FB094BD25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8781DF3A-125C-4274-8E55-B8FB094BD25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACE21CC-55E1-4C39-BB38-4649DEC9D84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACE21CC-55E1-4C39-BB38-4649DEC9D84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACE21CC-55E1-4C39-BB38-4649DEC9D84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACE21CC-55E1-4C39-BB38-4649DEC9D84D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
